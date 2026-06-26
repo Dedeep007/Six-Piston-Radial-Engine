@@ -8,16 +8,11 @@ Check out the demonstration and overview video for a closer look at the design. 
 
 [![Six Piston RS Demonstration](thumbnail.jpg)](https://drive.google.com/file/d/1VlSy88jtw8p5VzzQsK3HCdooxi-Ulbxz/view?usp=sharing)
 
-## Repository Contents
-* `/Native_Files/` - Native CAD files (e.g., SolidWorks, Fusion 360, or CATIA) containing the full assembly and individual part features.
-* `/STEP/` - Universal `.STEP` files for easy import into any 3D modeling or FEA software.
-* `/STL/` - Mesh files suitable for 3D printing or quick viewing.
-
 ## Usage
 To explore or modify the models:
 1. Clone or download this repository.
 2. Open the main assembly file in your preferred CAD software. 
-3. If your software does not support the native file type, import the provided `.STEP` file.
+3. If your software does not support the native file type, import the provided `.SLDPRT` file.
 
 ## Applications
 These models can be utilized for:
