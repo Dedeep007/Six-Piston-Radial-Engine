@@ -1,4 +1,4 @@
-# Six Piston RS - CAD Models
+# Six Piston Radial Engine - CAD Models
 
 ## Overview
 This repository contains the 3D CAD files for a Six-Piston RS brake caliper system. These models are designed for mechanical reference, structural analysis, rendering, or integration into larger vehicle assemblies.
