@@ -9,7 +9,6 @@ Check out the demonstration and overview video for a closer look at the design. 
 [![Six Piston RS Demonstration](thumbnail.jpg)](https://drive.google.com/file/d/1VlSy88jtw8p5VzzQsK3HCdooxi-Ulbxz/view?usp=sharing)
 
 ## Repository Contents
-*(Note: Update this section based on the specific formats you uploaded)*
 * `/Native_Files/` - Native CAD files (e.g., SolidWorks, Fusion 360, or CATIA) containing the full assembly and individual part features.
 * `/STEP/` - Universal `.STEP` files for easy import into any 3D modeling or FEA software.
 * `/STL/` - Mesh files suitable for 3D printing or quick viewing.
@@ -26,6 +25,3 @@ These models can be utilized for:
 * Finite Element Analysis (FEA) for stress and deformation testing
 * Clearance checking in custom wheel/suspension designs
 * High-fidelity 3D rendering
-
-## License
-[Insert License Type Here, e.g., MIT, CC-BY-4.0, or state if it is for personal/educational use only]
