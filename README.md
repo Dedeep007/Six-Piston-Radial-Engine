@@ -4,8 +4,10 @@
 This repository contains the 3D CAD files for a Six-Piston RS brake caliper system. These models are designed for mechanical reference, structural analysis, rendering, or integration into larger vehicle assemblies.
 
 ## Demonstration & Visuals
-Check out the demonstration and overview video for a closer look at the design:
-🎥 **[Watch the Video on Google Drive](https://drive.google.com/file/d/1VlSy88jtw8p5VzzQsK3HCdooxi-Ulbxz/view?usp=sharing)**
+Check out the demonstration and overview video for a closer look at the design. Click the image below to watch the video:
+
+[![Six Piston RS Demonstration](thumbnail.jpg)](https://drive.google.com/file/d/1VlSy88jtw8p5VzzQsK3HCdooxi-Ulbxz/view?usp=sharing)
+*(Note: To make the image above work, take a screenshot of your video, save it as `thumbnail.jpg`, and upload it to the main folder of this repository.)*
 
 ## Repository Contents
 *(Note: Update this section based on the specific formats you uploaded)*
